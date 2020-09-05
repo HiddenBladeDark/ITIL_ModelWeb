@@ -1,0 +1,309 @@
+Estrategia de Servicios
+
+En el centro del ciclo de vida del Servicio está la Estrategia de Servicios, que promueve la visión de la gestión de los servicios como un activo estratégico, y no sólo como una capacidad de la organización.
+
+Una estrategia es un plan que muestra como una organización alcanzará una serie de objetivos.
+
+La Estrategia de Servicios muestra como un proveedor de servicios usará los servicios para dar soporte a la consecución de los resultados deseados tanto por sus clientes como por sí mismo.
+
+Objetivos
+Determinar las políticas que han de guiar todas las actividades del proveedor de servicios.
+Identificar, seleccionar y priorizar servicios. Establecer qué servicios deben implementarse y por qué, teniendo en cuenta las perspectivas de cliente y mercado.
+Asegurar que la organización es capaz de soportar el coste y el riesgo asociados a su catálogo de servicios.
+
+
+
+Procesos
+Estrategia de Servicios
+
+Gestión de la estrategia de servicios
+Es responsable de definir y mantener la perspectiva (visión y dirección), la posición (cómo competimos contra otros proveedores de servicios), los planes (cómo iremos de la situación actual a la situación deseada) y los patrones (series de acciones a lo largo del tiempo que se han de repetir para alcanzar los objetivos estratégicos) de la organización respecto de los servicios y la gestión de los mismos.
+
+Gestión financiera
+Proporciona la valoración, en términos financieros, de los servicios y la infraestructura sobre la que se sustentan, así como una previsión de costes de los mismos.
+
+Modela la demanda utilizando mecanismos de tarificación para influir en los patrones de consumo de los clientes.
+
+Gestión del portfolio de servicios
+Gestiona las inversiones en nuevos servicios y en la actualización de servicios existentes teniendo en cuenta los siguientes factores clave:
+
+¿Es un servicio vendible? ¿Por qué lo comprarían los clientes? ¿Por qué nos lo comprarían a nosotros?
+¿Es un servicio rentable? ¿Cuáles son sus costes? ¿Cómo lo cobraríamos?
+¿Es un servicio realizable? ¿Cómo se gestionaría?
+Gestión de la demanda
+Su objetivo es predecir y regular la demanda, de forma que se optimice y racionalice el uso de los recursos. Es la responsable de redistribuir la capacidad disponible para proporcionar los servicios del catálogo de servicios con la calidad acordada con el cliente.
+
+Gestión de la relación con el negocio
+Establece y mantiene la relación entre el proveedor de servicios y el cliente. Esta relación ha de estar basada en un profundo conocimiento del cliente y de las necesidades de su negocio.
+
+Identifica las necesidades del cliente y se asegura de que el proveedor de servicios las puede cubrir. Las necesidades de los clientes cambiarán a lo largo del tiempo, y el proveedor de servicios debe ser capaz de reaccionar y adaptarse.
+
+
+
+
+
+
+
+
+
+Diseño de Servicios
+
+El objetivo principal de esta fase es diseñar los servicios para introducirlos en el entorno productivo de forma que generen el valor esperado.
+
+La estrategia, que vimos en el artículo anterior, decide qué servicios deben proveerse y qué resultados son los que se esperan del servicio. Asimismo establece las políticas a seguir (tecnológicas, de seguridad, organizativas…) y las restricciones a tener en cuenta (presupuesto…).
+
+Las actividades del diseño del servicio comienzan cuando la estrategia lanza un nuevo servicio o un cambio significativo en un servicio existente. La estrategia proporciona una visión general de la funcionalidad y el nivel de servicio necesarios para conseguir los resultados esperados y el diseño del servicio trabajará con el negocio para identificar los requerimientos en detalle.
+
+Diseño balanceado
+El diseño del servicio debe trabajar con los siguientes aspectos: funcionalidad (qué debe hacer el servicio), nivel de servicio (garantía de funcionamiento adecuado), plazos de entrega y recursos (dinero, personas y tecnología).
+
+En esencia, cada uno de ellos son requerimientos del negocio y el diseñador ha de tener en cuenta que están interrelacionados y que, por lo tanto, siempre que se produzca un cambio en los requerimientos estos aspectos han de ser revisados.
+
+Enfoque global
+El diseño del servicio debe aplicar un enfoque global para asegurar la consistencia y la integración.
+
+Por un lado, cualquier cambio en algún elemento del servicio debe ser evaluado teniendo en cuenta el resto de elementos; por otro, se ha de considerar el impacto del servicio en el entorno: resto de servicios, herramientas de gestión, tecnología, procesos de gestión de servicios y métricas.
+
+Asimismo, el diseño asegurará que el servicio pueda ser fácil y eficientemente implementado y desplegado en la fase de transición, ejecutado en la fase de operación y mejorado durante todo su ciclo de vida.
+
+Las 4 P
+La implementación de la gestión de servicios ITIL tiene mucho que ver con la preparación y la planificación de un efectivo y eficiente uso de las 4 P:
+
+– People (personas)
+– Processes (procesos)
+– Products/technology (tecnología)
+– Partners/suppliers (asociados y proveedores).
+
+Muchos diseños fallan por la falta de preparación y/o gestión.
+
+Considerar las 4 P y como han de trabajar conjuntamente nos ayudará a obtener un buen resultado .
+
+Paquete de diseño del servicio (Service Design Package, SDP)
+Un paquete de diseño del servicio (en adelante SDP) debe ser producido en cada diseño. El SDP es entregado a la fase de transición y contiene todos los detalles necesarios para las siguientes fases del ciclo de vida: transición, operación y mejora continua.
+
+El SDP contiene: los requerimientos acordados con el negocio, el diseño propiamente dicho (definición, componentes e infraestructura, herramientas, procesos, procedimientos, métricas, informes, servicios de soporte, acuerdos con proveedores…), preparación organizativa (evaluación financiera, técnica, de recursos… y el detalle de todas las habilidades y competencias requeridas por el proveedor del servicio) y plan del ciclo de vida del servicio (programa del servicio, plan de transición del servicio, plan de aceptación operación al del servicio y criterios de aceptación del servicio).
+
+Procesos
+Coordinación del Diseño
+Coordina todas las actividades del diseño y gestiona el calendario, los recursos y los posibles conflictos. Asimismo establece las políticas y los estándares de trabajo. El propósito final es asegurar que los diseños se realizan de una manera eficiente y que los objetivos del diseño se cumplen.
+
+Gestión del Catálogo de Servicios
+El catálogo de servicios es repositorio donde se encuentra la información asociada a todos los servicios que se están proveyendo actualmente. El objetivo del proceso es asegurar que se mantiene el catálogo de servicios completo, actualizado y accesible.
+
+Gestión de Niveles de Servicio
+Negocia, acuerda, documenta y realiza el mantenimiento de los objetivos de calidad del Servicio. Monitoriza y reporta los niveles de cumplimiento alcanzados durante la ejecución del servicio.
+
+Gestión de la Capacidad
+Responsable de asegurar que la organización tenga los recursos para poder proporcionar los servicios con el nivel de calidad acordado. Es importante tener en cuenta que el proceso ha de prever las necesidades futuras para evitar que la calidad del servicio se corrompa con el tiempo
+
+Gestión de la Disponibilidad
+Responsable de monitorizar y optimizar los servicios para aportar el nivel de disponibilidad acordado con el cliente con el mínimo coste y riesgo posible.
+
+Gestión de la Continuidad
+Se preocupa de impedir que una imprevista y grave interrupción de los servicios, debido a desastres naturales u otras fuerzas de causa mayor, tenga consecuencias catastróficas para el negocio. Para ello este proceso elabora planes de contingencia ante desastres de diferente magnitud.
+
+Gestión de Proveedores
+Negocia y acuerda los contratos con los proveedores, estableciendo los UC (Underpinning Contract) correspondientes.
+
+Gestión de la Seguridad de la Información
+Responsable de elaborar y mantener la Política de Seguridad de la Información (ISP), donde se establecen las políticas de integridad, confidencialidad y disponibilidad de la información.
+
+
+
+
+
+
+
+
+
+
+Transición de Servicios
+
+
+En este punto la Estrategia de Servicios ha establecido qué servicios se han de proveer y el valor esperado de los mismos, y el Diseño de Servicios ha elaborado el SDP (Service Design Package) donde se detalla qué ha de hacer el servicio y cómo ha de hacerlo.
+
+La fase de transición se encarga de construir, probar y desplegar los nuevos servicios (o los servicios actualizados). Asimismo es la responsable de transferir a la fase de operación el conocimiento necesario para poder operar los servicios dentro de los niveles de servicio acordados.
+
+Una transición de servicios se considera un éxito si:
+
+– Los servicios introducidos aportan el valor esperado.
+– Los servicios se introducen de forma controlada y no disruptiva. Es decir, los servicios en producción se mantienen dentro de los niveles de servicio acordados con el coste previsto.
+Las personas
+Cuando abordamos la gestión de un cambio en un sistema de información, hay veces en las que prestamos mucha atención a los aspectos tecnológicos del cambio y se nos olvida un poco que quienes van a utilizar el sistema son personas, y que el éxito de un sistema viene determinado por el uso que las personas hagan de él.
+
+Las personas solemos oponernos a los cambios por diversas razones: comodidad, miedo, interés…
+
+La Transición de Servicios deberá conseguir que los usuarios, la gran mayoría al menos, compren el cambio y se impliquen en él.
+
+Para eso deberá tener en cuenta factores como:
+
+– La gestión de los actores clave del cambio.
+– El ciclo emocional del cambio.
+– La cultura organizacional.
+– El plan de comunicación.
+Comunicación
+La comunicación es una de los aspectos fundamentales en la gestión del cambio, y suele ser uno de los puntos débiles de la Transición de Servicios.
+
+Si no comunicamos bien las implicaciones, los beneficios y el uso asociados al cambio no estaremos entregando el máximo valor posible.
+
+Cada comunicación se ha de dirigir a la audiencia indicada, por el medio idóneo y con la periodicidad adecuada: necesitamos elaborar un plan de comunicación.
+
+Procesos
+Planificación y soporte a la Transición
+Planifica y coordina los recursos para asegurar que los requerimientos de la Estrategia del Servicio plasmados en el Diseño del Servicio se cumplen en la Operación del Servicio. Asimismo ha de asegurar que la puesta en producción de un servicio nuevo o modificado se lleva a cabo exitosamente y dentro de los parámetros de coste, tiempo y calidad previstos.
+
+Gestión de Cambios
+Supervisa y aprueba la introducción de nuevos servicios o modificación de los servicios prestados garantizando que todo el proceso de cambio ha sido convenientemente planificado, evaluado, probado, implementado y documentado.
+
+Gestión de la Configuración y Activos del Servicio
+Responsable del registro y la gestión de los elementos de configuración (CIs) y activos del servicio. Este proceso asegura la validez de la información y da soporte a prácticamente todo el resto de procesos.
+
+Gestión de Versiones y Despliegues
+Responsable de desarrollar, probar e implementar las nuevas versiones de los servicios según las directrices marcadas en la fase de Diseño del Servicio. Asimismo es responsable de proteger la integridad de los servicios previamente existentes en el entorno productivo.
+
+Service Design Thinking
+
+Validación y pruebas del servicio
+Responsable de garantizar que los servicios cumplen los requisitos preestablecidos antes de su paso al entorno de producción.
+
+Evaluación del cambio
+Evalúa y reporta aquellos aspectos relevantes de los servicios: valor, calidad, rentabilidad, satisfacción de los usuarios, etc.
+
+Se pueden establecer diversos puntos en el ciclo de vida del cambio donde este proceso responde a la pregunta “¿Deberíamos continuar con el cambio?”. La decisión final sería de la Gestión de Cambios, pero la recomendación y las evidencias serían de la Evaluación del Cambio.
+
+Gestión del Conocimiento
+Responsable de que el conocimiento acumulado en los servicios esté a disposición de todos los procesos asociados a cualquiera de las fases del ciclo de vida de los servicios.
+
+Su principal objetivo es promover una buena toma de decisiones basada en una información adecuada.
+
+En este punto ya tendríamos nuestro servicio en producción, en el próximo capítulo veremos cómo el proceso Operación del Servicio se encarga de realizar el valor previsto en la Estrategia de Servicios.
+
+
+
+
+
+
+
+Operación de Servicios
+
+Todas las fases del ciclo de vida del Servicio proporcionan valor a la organización, pero es en la Operación de Servicios donde el cliente ve ese valor. ITIL Operación de Servicios ha de permitir al negocio alcanzar sus objetivos.
+
+En esta fase es donde se realiza la estrategia, donde se llevan a cabo las actividades necesarias para proveer el Servicio dentro del marco establecido en el Acuerdo de Nivel de Servicio, proporcionando así el valor esperado.
+
+Y también es donde salen a la luz las deficiencias de la estrategia, diseño y transición del servicio, podríamos decir que la Operación de Servicios es la fase beneficiaria, y/o víctima, de todo lo hecho en las fases anteriores.
+
+La Operación de Servicios recogerá todas las métricas definidas en el Diseño del Servicio y se reportarán a la Mejora Continua del Servicio, la cual identificará el nivel de consecución de los objetivos definidos en la estrategia y acordará las medidas necesarias para mejorar el Servicio.
+
+Equilibrio en la Operación de Servicios
+Estabilidad frente a capacidad de respuesta
+Los clientes esperan que su entorno operativo sea estable, pero al mismo tiempo quieren que las mejoras sean implementadas rápidamente.
+
+Demasiado foco en estabilidad puede conducir a un sistema rígido, que no se adapte lo suficientemente rápido a los cambios que requiere el mercado en el que el negocio opera. Mucho foco en la capacidad de respuesta puede conducir a un sobrecoste innecesario y/o a una inestabilidad en el entorno.
+
+Calidad frente a coste
+La Operación de Servicios debe buscar un compromiso entre la calidad y el coste. Un Servicio puede llegar a ofrecer un nivel de disponibilidad del 100%, pero ni todos los clientes lo necesitan, ni disponen de recursos para costearlo.
+
+Demasiado foco en coste puede conducir a una calidad del Servicio deficiente, pero excesivo foco en calidad puede conducir a una inversión innecesaria.
+
+Equilibrio en la Operación de Servicios
+
+Funciones
+Service Desk
+Proporciona un punto único de comunicación entre los usuarios y el servicio, y un punto de coordinación entre grupos y procesos del servicio.
+
+Gestión Tecnológica (Technical Management)
+Proporciona el conocimiento técnico y los recursos necesarios para gestionar la infraestructura que da soporte a los Servicios.
+
+Gestión de Aplicaciones (Application Management)
+Es la responsable de gestionar las aplicaciones a través de su ciclo de vida.
+
+Gestión de Operaciones TI (IT Operations Management)
+Es la responsable de llevar a cabo las actividades rutinarias necesarias para proveer los servicios.
+
+Procesos
+Gestión de Eventos
+Monitoriza todos los eventos que ocurren en la infraestructura del servicio y alerta de situaciones que pudieran llegar a suponer una incidencia.
+
+Gestión de Incidencias
+Restaura servicios interrumpidos o degradados lo antes posible, de forma que se minimice el impacto sobre el negocio.
+
+Gestión de Peticiones de Servicio
+Proporciona información relativa al catálogo de servicios a los usuarios y un canal para que dichos usuarios puedan solicitar servicios predefinidos y pre aprobados.
+
+Gestión de Problemas
+Diagnostica la causa raíz de las incidencias ocurridas, proporciona workarounds a la gestión de incidencias para restaurar los servicios lo antes posible y proactivamente ejecuta acciones para detectar y prevenir futuras incidencias.
+
+Gestión de Accesos
+Concede a los Usuarios autorizados el derecho a utilizar un Servicio e impide el acceso a Usuarios no autorizados.
+
+
+
+
+
+
+
+Mejora continua del servicio
+
+
+
+El principal objetivo de ITIL mejora continua del servicio es mantener alineados los Servicios con las necesidades cambiantes del negocio. Para ello, se relaciona con el resto de fases del ciclo de vida con el propósito de identificar e implementar mejoras tanto en los servicios como en los procesos de gestión de los mismos.
+
+Una cultura de mejora continua implica la búsqueda constante de formas de mejorar la efectividad y la eficiencia de las actividades que se realizan en el ámbito del Servicio.
+
+Medir, medir y medir
+Los procesos de gestión del Servicio que hemos visto hasta el momento en las diferentes fases del ciclo de vida deben ser implementados y gestionados definiendo claramente sus metas y objetivos, y estableciendo métricas para validar que éstos son alcanzados.
+
+Si no usamos métricas el negocio puede verse perjudicado de diferentes formas: pérdida de horas de trabajo, incremento de costes, pérdida de reputación…
+
+Necesitamos las métricas tanto para controlar como para mejorar. Las métricas identificarán áreas de mejora y alertarán de problemas potenciales.
+
+El enfoque de la mejora continua
+El enfoque de la mejora continua se puede expresar como un conjunto de 6 preguntas y es fundamental involucrar al negocio en las respuestas.
+
+Pregunta 1: ¿Cuál es la visión?
+Entender los objetivos a medio/largo plazo del negocio.
+
+Pregunta 2: ¿Dónde estamos?
+Evaluar la situación actual respecto a los objetivos planteados en la visión del negocio. Será el punto de referencia para medir la efectividad del conjunto de cambios que se implementen.
+
+Pregunta 3: ¿Dónde queremos estar?
+Priorizar las mejoras conjuntamente con el negocio. Se definen objetivos concretos en un tiempo limitado.
+
+Pregunta 4: ¿Cómo llegaremos?
+Elaborar un plan detallado que nos permita cumplir lo establecido en el punto anterior.
+
+Pregunta 5: ¿Hemos llegado?
+Medir para determinar si se han alcanzado los objetivos previstos.
+
+Pregunta 6: ¿Cómo podemos mantener el impulso?
+Consolidar los cambios y asegurar que se inicia un nuevo ciclo de mejora.
+
+El proceso de mejora de 7 pasos
+El proceso de mejora continua del servicio es una implementación particular en 7 pasos del Ciclo de Deming (planifica / prueba / valida / actúa).
+
+Paso 1. Identificar la estrategia de mejora
+Antes de iniciar cualquier proceso de mejora, hemos de tener claro qué es lo que queremos conseguir. Para eso pueden ser útiles las siguientes preguntas:
+
+– Qué necesita el negocio?
+– Cómo los servicios TI pueden cubrir esas necesidades?
+Paso 2. Definir lo que se ha de medir
+Aquí nos debemos preguntar qué deberíamos medir y qué podemos medir, y llevar a cabo un análisis de las carencias que nos ha de conducir a un plan de métricas.
+
+Paso 3. Obtener la información
+Normalmente la información se recoge en la fase de operación del servicio mediante los elementos de monitorización definidos en la fase de diseño del Servicio.
+
+Paso 4. Procesar la información
+La información recogida en la monitorización se procesa para obtener los indicadores definidos.
+
+Paso 5. Analizar la información
+Se valida que el valor de los indicadores es el adecuado para la consecución de los objetivos. Se estudian tendencias.
+
+Paso 6. Presentar y utilizar la información
+La información se ha de formatear y comunicar a todos los actores clave, de forma que la puedan entender y les sirva para la toma de decisiones.
+
+Paso 7. Implementar la mejora
+La información obtenida se usa para definir qué se ha de corregir, optimizar o mejorar. Es decir, se establecen y priorizan las mejoras a implementar.
+
+Las mejoras se implementan en orden de prioridad.
+
+Después de esta fase se crea un nuevo punto de referencia para la evaluación de posteriores mejoras.

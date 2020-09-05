@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+            $('#BtnSeleccionar').click(function() {
+              $('#meses input[type=checkbox]').prop("checked", true);
+            });
+          
+            $('#BtnDeseleccionar').click(function() {
+              $('#meses input[type=checkbox]').prop("checked", false);
+            });
+          });</script>
+</head>
+<body>
+        <div class="meses" id="meses">
+                <div class="reci-header">Seleccione los meses:</div>
+                <div class="col1">
+                  <input type="checkbox" name="mes1" value="01"> Enero<br>
+                  <input type="checkbox" name="mes4" value="04"> Abril<br>
+                  <input type="checkbox" name="mes7" value="07"> Julio<br>
+                  <input type="checkbox" name="mes10" value="10"> Octubre<br>
+                </div>
+                <div class="col1">
+                  <input type="checkbox" name="mes2" value="02"> Febrero <br>
+                  <input type="checkbox" name="mes5" value="05"> Mayo<br>
+                  <input type="checkbox" name="mes8" value="08"> Agosto<br>
+                  <input type="checkbox" name="mes11" value="11"> Nov.<br>
+                </div>
+                <div class="col1">
+                  <input type="checkbox" name="mes3" value="03"> Marzo <br>
+                  <input type="checkbox" name="mes6" value="06"> Junio <br>
+                  <input type="checkbox" name="mes9" value="09"> Sept. <br>
+                  <input type="checkbox" name="mes12" value="12"> Dic. <br>
+                </div>
+                <input type="button" id="BtnSeleccionar" value="Seleccionar todo">
+                <input type="button" id="BtnDeseleccionar" value="Deseleccionar todo">
+              </div> 
+</body>
+</html>
+
+
+

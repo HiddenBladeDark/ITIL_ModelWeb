@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>honor</title>
+</head>
+<script type="text/javascript">
+	function showContent() {
+		element = document.getElementById("content");
+		fases1 = document.getElementById("fases1")
+		check = document.getElementById("check");
+		fase1= document.getElementById("fase1");
+		if (check.checked) {
+			element.style.display='block';
+			
+		}
+		else {
+			element.style.display='none';
+			
+		}
+	
+	if (fase1.checked) {
+		fases1.style.display='block';
+
+	}else
+	{
+
+		fases1.style.display='none';
+	}
+}
+	/*function showContent() {
+	   element = document.getElementById("content");
+	   if (check.checked) {
+	      element.style.display='block';
+	   } else {
+	      element.style.display='none';
+	   }
+	}*/
+	</script>
+</head>
+<body>
+<b>ES VERDAD QUE LUIS Y JORGE SE DAN POR EL ORTICO?</b>
+<form action="#" method="post">
+	<input type="checkbox" name="check" id="check" value="1" onchange="javascript:showContent()" />
+</form>
+<div id="content" style="display: none;">
+  Eso es verdad señor
+   
+ </div>
+<b>xdfafasfasds</b>
+<form action="#" method="post">
+	<input type="checkbox" name="fase1" id="fase1" value="1" onchange="javascript:showContent()" />
+</form>
+<div id="fases1" style="display: none;">
+  Nada
+   
+ </div>
+
+</body>
+</html>
